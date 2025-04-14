@@ -1,0 +1,7 @@
+Player 1:fire,water,air,earth
+Player 2:fire,water,air,earth
+Player1:earth,fire,steam,air,water,mud,mist,energy
+Player1:earth,fire,steam,air,water,mud,mist,energy
+Player1:earth,fire,steam,air,water,mud,mist,energy
+Player1:earth,fire,steam,air,water,mud,dust,mist,energy
+Player1:earth,fire,steam,air,water,mud,dust,mist,energy
